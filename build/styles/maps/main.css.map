@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,OACI,aACA","file":"../main.css","sourcesContent":["button{\r\n    padding: 40px;\r\n    background-color: green;\r\n}"]}
